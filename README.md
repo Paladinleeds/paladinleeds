@@ -8,4 +8,4 @@ My mainstay work is going to be plugins for the Elgato Stream Deck, potentially 
 
 ## What languages do I use?
 
-My favourite language to work with is C# (although I need to get better at it), however I am planning to learn other languages as well.
+My favourite language to work with is C# (although I need to get better at it), however I am planning to learn other languages as well. I am currently learning the Swift language, and have been having a lot of fun using Swift Playgrounds for this!
